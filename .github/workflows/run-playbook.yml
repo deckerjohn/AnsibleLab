@@ -3,9 +3,9 @@
   # uses: saubermacherag/ansible-playbook-docker-action@6504ab82647581a928477ecb9c6d52f11fc6843f
   uses: saubermacherag/ansible-playbook-docker-action@v1.4
   with:
-    # Name of the playbook in your workspace.
+    station-config.yaml
     playbookName: 
-    # Name of the inventory file to use.
+    # Name of the inventory fi
     inventoryFile: # optional
     # name of the requirements file to use.
     requirementsFile: # optional
